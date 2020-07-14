@@ -1,3 +1,6 @@
 #lmaooooooo
 
-print("this is a test")
+def main(msg):
+    print(msg)
+
+main("hello this is a test")
